@@ -1,5 +1,5 @@
 require "minitest/autorun"
-require_relative "roman_numerals.rb"
+require_relative "roman_numerals_final.rb"
 
 class Roman_numerals_test < Minitest::Test
 	def test_true_equals_true
